@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jason.ngo/Desktop/untitled folder/myApp/myApp.csproj": {}
+  },
+  "projects": {
+    "/Users/jason.ngo/Desktop/untitled folder/myApp/myApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jason.ngo/Desktop/untitled folder/myApp/myApp.csproj",
+        "projectName": "myApp",
+        "projectPath": "/Users/jason.ngo/Desktop/untitled folder/myApp/myApp.csproj",
+        "packagesPath": "/Users/jason.ngo/.nuget/packages/",
+        "outputPath": "/Users/jason.ngo/Desktop/untitled folder/myApp/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/jason.ngo/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.3.103.29, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3-beta1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/jason.ngo/Desktop/untitled folder/myApp/bin/Debug/netcoreapp2.2/myApp.deps.json
+/Users/jason.ngo/Desktop/untitled folder/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.json
+/Users/jason.ngo/Desktop/untitled folder/myApp/bin/Debug/netcoreapp2.2/myApp.runtimeconfig.dev.json
+/Users/jason.ngo/Desktop/untitled folder/myApp/bin/Debug/netcoreapp2.2/myApp.dll
+/Users/jason.ngo/Desktop/untitled folder/myApp/bin/Debug/netcoreapp2.2/myApp.pdb
+/Users/jason.ngo/Desktop/untitled folder/myApp/obj/Debug/netcoreapp2.2/myApp.csprojAssemblyReference.cache
+/Users/jason.ngo/Desktop/untitled folder/myApp/obj/Debug/netcoreapp2.2/myApp.csproj.CoreCompileInputs.cache
+/Users/jason.ngo/Desktop/untitled folder/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfoInputs.cache
+/Users/jason.ngo/Desktop/untitled folder/myApp/obj/Debug/netcoreapp2.2/myApp.AssemblyInfo.cs
+/Users/jason.ngo/Desktop/untitled folder/myApp/obj/Debug/netcoreapp2.2/myApp.dll
+/Users/jason.ngo/Desktop/untitled folder/myApp/obj/Debug/netcoreapp2.2/myApp.pdb

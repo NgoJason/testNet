@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "7b67f33c65f2a82a59463d3ee16197b4d13a1f83"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "myApp/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.103.29",
+          "Newtonsoft.Json": "12.0.3-beta1"
+        },
+        "runtime": {
+          "myApp.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.103.29": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.103.29"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3-beta1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23619"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "myApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.103.29": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-jj3y2PG/hEsR4iLRgfciQPm/ykj64RxTKSrlW86ef/0G2UB1qALYH53wCZlsfrpGq4GwDRxkYNQQkxO/Di8kDA==",
+      "path": "awssdk.core/3.3.103.29",
+      "hashPath": "awssdk.core.3.3.103.29.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3-beta1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dvGx3CT9tEs9LbgyIw9MZl+sLCFa6yx1NXLKaldRk+N9BgToJpCK2PUv8z2aNbLq6ljtLS93X5gamWxs8DhdRA==",
+      "path": "newtonsoft.json/12.0.3-beta1",
+      "hashPath": "newtonsoft.json.12.0.3-beta1.nupkg.sha512"
+    }
+  }
+}
